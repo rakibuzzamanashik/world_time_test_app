@@ -1,0 +1,4 @@
+#Sat Apr 18 14:27:55 BDT 2020
+base.0=C\:\\Users\\Ashik\\Documents\\FlutterApp\\world_time_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
